@@ -1,3 +1,50 @@
+# WebSkills Website
+
+A modern, responsive website built using HTML and CSS. It is designed to showcase web development skills with clean UI, smooth navigation, and mobile-friendly components.
+
+## Features
+
+- Fixed navigation bar with smooth scrolling
+- Multiple content cards with flexible layouts
+- Responsive design with Flexbox
+- Styled FAQ accordion using <details> and <summary>
+- Contact form section with styled inputs
+- Clean, modern footer design
+
+## Sections Overview
+
+1. **Home** – Hero card with CTA
+2. **About** – Informative text with supporting image
+3. **Services / Lessons** – Feature cards highlighting different offerings
+4. **Partners** – Visual showcase
+5. **FAQ** – Interactive questions section
+6. **Contact** – Form for user inquiries
+7. **Footer** – Navigation and quick info
+
+## Tech Stack
+
+- HTML5
+- CSS3 (Flexbox, scroll-behavior, custom styling)
+
+## Setup
+
+Just clone the repo and open `index.html` in your browser:
+
+```bash
+git clone https://github.com/yourusername/webskills-site.git
+cd webskills-site
+```
+
+Open `index.html` with any browser.
+
+## Contributing
+
+Feel free to fork this project, open issues, or make pull requests. It's designed to grow.
+
+## License
+
+This project is open-source and available under the MIT License.
+
 
 # Final Project Setup using Termux
 
